@@ -1,0 +1,14 @@
+/* styles css pour colored design */
+body {
+    background-color: #ddeeaa;
+}
+#conteneur {
+    /* margin 0 et auto pour le conteneur dans la page ATTENTION à donner une largeur */
+    margin: 0 auto;
+    width: 800px; 
+    background-color: white;
+    border: 2px solid #aabb44;
+}
+header h1{
+    height: 250px;
+}
